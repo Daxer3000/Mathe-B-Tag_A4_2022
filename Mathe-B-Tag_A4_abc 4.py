@@ -1,5 +1,5 @@
 
-###  n darf keine Vielfaches von m sein, sonst sind nicht alle garden Zahlen von 0 - n  abmessbar. ###
+###  n darf keine Vielfaches von m sein, sonst sind nicht alle graden Zahlen von 0 - n  abmessbar. ###
 
 
 
