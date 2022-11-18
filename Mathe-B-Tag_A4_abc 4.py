@@ -3,7 +3,7 @@
 
 
 
-def get_all_numbers(volume_n = 400, volume_m =3):
+def get_all_numbers(volume_n = 2022, volume_m =7):
 	list_m = [0, volume_m]
 	list_n = [0]
 	end = False
