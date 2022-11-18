@@ -42,7 +42,7 @@ def get_all_numbers(volume_n = 2022, volume_m =7):
 				list_n.append(i)
 				not_calculated = i
 				end = False
-		print(not_calculated)	
+	
 		list_m.sort()
 		list_n.sort()
 		if count > 0:
