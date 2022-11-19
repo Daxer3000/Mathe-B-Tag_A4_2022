@@ -1,5 +1,5 @@
 
-### Da pi unendlich viele Nachkommastellen hat, ist eine genau Kalkulation bis zur Zahl 1 hin nur annährungsweise möglich ###
+### Da Pi irrational ist, ist eine genau Kalkulation bis zur Zahl 1 hin nur annährungsweise möglich ###
 
 #import math.pi as pi
 def get_all_numbers(volume_n = 5, volume_m =3.14159265359):
