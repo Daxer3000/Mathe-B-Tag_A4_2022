@@ -1,6 +1,5 @@
 
-###  n darf keine Vielfaches von m sein, sonst sind nicht alle garden Zahlen von 0 - n  abmessbar. ###
-
+### Da pi unendliche viele Nachkommastellen hat, ist eine genau Kalkulation bis zur Zahl 1 hin nur annährungsweise möglich ###
 
 #import math.pi as pi
 def get_all_numbers(volume_n = 5, volume_m =3.14159265359):
