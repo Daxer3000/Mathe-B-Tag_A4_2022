@@ -2,8 +2,8 @@
 ###  Da Pi irratioal ist, ist nur eine annährungsweise Kalkulation zur Zahl 1 hin möglich. ###
 
 
-#import math.pi as pi
-def get_all_numbers(volume_n = 5, volume_m =3.14159265359):
+from math import pi
+def get_all_numbers(volume_n = 5, volume_m = pi):
 	list_m = [0, volume_m]
 	list_n = [0]
 	end = False
