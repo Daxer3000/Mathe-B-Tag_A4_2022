@@ -48,7 +48,7 @@ def get_all_numbers(volume_n = 5, volume_m =3.14159265359):
 				not_calculated = i
 				end = False	
 		count += 1
-		if count > 400:
+		if count > 400: #Stop der Kalkulation 
 			break
 	list_m.sort()
 	list_n.sort()
